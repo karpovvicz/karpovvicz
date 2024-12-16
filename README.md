@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ambitious Web Application Project
 - 📫 How to reach me you can message me here 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I started out on Windows 95
 
 <!---
 karpovvicz/karpovvicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
