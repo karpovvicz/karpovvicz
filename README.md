@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karpovvicz
-- 👀 I’m interested in React Javascript, Node.js and LLM
+- 👀 I’m interested in React, Node.js and LLM
 - 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on Ambitious Web Application Projects
 - 📫 How to reach me? you can message me here 
