@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karpovvicz
-- 👀 I’m interested in React, Node.js and LLM
+- 👀 I’m interested in React, Node.js and large language models
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Ambitious Cool Projects
+- 💞️ I’m looking to collaborate on ambitious cool projects
 - 📫 How to reach me? you can message me here 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started out on Windows 95
