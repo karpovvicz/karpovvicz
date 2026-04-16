@@ -1,16 +1,16 @@
-## Hi there 👋
+### Kacper Karpowicz — Full-stack developer, front-end specialism
 
-<!--
-**karpovvicz/karpovvicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in France. I build production web apps across the modern JS ecosystem
+(React, Next.js, TypeScript) and the WordPress/PHP world, with a side
+interest in Python systems that run unattended.
 
-Here are some ideas to get you started:
+- Currently: a local-first investment portfolio tracker (Next.js 14 + FastAPI + WebSockets)
+- Previously: production sound on Polish feature films — taught me how
+      things ship when there are no second takes.
+- karpovvicz@gmail.com · [kacperkarpowicz.dev](https://www.kacperkarpowicz.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I reach for:** TypeScript · Next.js · React · Tailwind · FastAPI ·
+PostgreSQL · Prisma · WordPress · MongoDB
+
+**Open to:** product-minded front-end / full-stack roles, remote or hybrid
+in France.
