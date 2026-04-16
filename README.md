@@ -1,4 +1,4 @@
-### Kacper Karpowicz — Full-stack developer, front-end specialism
+### Kacper Karpowicz — Full-stack developer with a film set instinct, front-end specialism comfortable in the backend when the problem demands it ###
 
 Based in France. I build production web apps across the modern JS ecosystem
 (React, Next.js, TypeScript) and the WordPress/PHP world, with a side
